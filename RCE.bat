@@ -32,7 +32,7 @@ echo ^| Finished downloading dependencies.                                      
 echo ^+=====================================================================================================================+
 pause
 cls
-echo Beginng json retrieval and conversion process...
+echo Beginning json retrieval and conversion process...
 echo.
 echo.
 echo.
